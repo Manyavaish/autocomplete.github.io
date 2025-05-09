@@ -1,0 +1,8 @@
+input box
+div box
+array of words
+trace two letters when written
+find matching sentences
+push them in div
+return div(suggesting matching sentences with those letters from that array)
+on click select that sentence in input box

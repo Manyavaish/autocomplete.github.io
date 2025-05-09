@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+    margin: 50px auto;
+    padding: 20px;
+    
+}
+.container input{
+    font-size: 22px;
+    width: 65%;
+    border: 1px solid black;
+}
+.container div{
+    text-align: left;
+    background: #fff;
+    width:65%;
+    max-height: 200px;
+    overflow: auto;
+   
+
+}
