@@ -53,7 +53,7 @@ const sentences = [
 const searchBox = document.getElementById('searchBox');
 const suggestionsBox = document.getElementById('suggestionsBox');
 
-searchBox.addEventListener('input', searchInput();
+searchBox.addEventListener('input', searchInput);
 
 
 function searchInput() {
